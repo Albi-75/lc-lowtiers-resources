@@ -121,7 +121,7 @@ def main():
     exclusion_steps = [
         ["LC Ubers"],
         ["LC Ubers", "LC OU", "LC UU BL"],
-        ["LC Ubers", "LC OU", "LC UU BL", "LC UU"]
+        ["LC Ubers", "LC OU", "LC UU BL", "LC UU", "LC RU BL"],
     ]
     create_aggregate_folders(OUTPUT_ROOT, tiers, exclusion_steps)
 
