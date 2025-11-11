@@ -1,6 +1,8 @@
 # lc-lowtiers-resources
 Functions to help maintaining the tier, like creating VR post of downloading images to update the tier maker
 
+https://www.smogon.com/stats/ and https://github.com/smogon/pokemon-showdown/blob/master/config/formats.ts can be helpful for importing banlists/usage stats
+
 # How to use
 Assuming you have no coding knowledge, use AI to guide your setup steps, otherwise this should be clear enough
 - install python
